@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< head
 # Ticket Booking Management System
 
 ## Project Overview
