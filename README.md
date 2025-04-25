@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ticket Booking Management System
 
 ## Project Overview
@@ -61,3 +62,6 @@ The Ticket Booking Management System is a web application built using Django. It
 ## Notes
 - Ensure Docker and Docker Compose are installed for containerized deployment.
 - Use the `Jenkinsfile` for automated build, test, and deployment pipelines...
+=======
+# TicketBooking
+>>>>>>> 99d2cd2d8b8b7cad07ea74ec69de50327de1f680
